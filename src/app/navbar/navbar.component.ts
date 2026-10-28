@@ -17,5 +17,6 @@ export class NavbarComponent {
     { title: 'Internship',  routerLink: "/customers" },
     { title: 'Contact',  routerLink: "/aging-list" },
   ];
+  what : string = "Hello World";
 
 }
